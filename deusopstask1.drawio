@@ -1,26 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T17:12:57.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="_vs02g5i8Y-F59JBEeRE" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T16:44:56.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="Us3qp5_THsNvnAAMlgKP" version="24.2.0" type="github">
   <diagram name="Страница — 1" id="GFAsSLpkDOocdh42TMkq">
-    <mxGraphModel dx="1322" dy="4889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="912" dy="4655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="s9o5hldAP5yXx8lMgUyK-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-4080" width="680" height="240" as="geometry" />
+          <mxGeometry x="40" y="-4080" width="1110" height="400" as="geometry" />
         </mxCell>
         <mxCell id="s9o5hldAP5yXx8lMgUyK-2" value="&lt;h1&gt;&lt;font color=&quot;#007fff&quot;&gt;timeweb&amp;gt;cloud&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="305" y="-4130" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="s9o5hldAP5yXx8lMgUyK-3" value="&lt;h3&gt;192.168.10.0/24&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="610" y="-3890" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s9o5hldAP5yXx8lMgUyK-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_postgresql_instance;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-4040" width="78" height="78" as="geometry" />
+          <mxGeometry x="990" y="-3730" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s9o5hldAP5yXx8lMgUyK-5" value="&lt;h3&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;db01&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="129" y="-4085" width="60" height="60" as="geometry" />
+          <mxGeometry x="150" y="-3740" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s9o5hldAP5yXx8lMgUyK-6" value="&lt;h3&gt;10.4/24&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="124" y="-3980" width="70" height="60" as="geometry" />
+          <mxGeometry x="200" y="-3751" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9o5hldAP5yXx8lMgUyK-7" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_postgresql_instance_alt;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-3900" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="s9o5hldAP5yXx8lMgUyK-9" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.systems_manager_session_manager;" vertex="1" parent="1">
+          <mxGeometry x="141" y="-4000" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="s9o5hldAP5yXx8lMgUyK-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_postgresql_instance;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-3870" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="s9o5hldAP5yXx8lMgUyK-10" value="&lt;h3&gt;pgadmin4/apache2&lt;br&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-4040" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9o5hldAP5yXx8lMgUyK-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="s9o5hldAP5yXx8lMgUyK-4" target="s9o5hldAP5yXx8lMgUyK-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="-3800" as="sourcePoint" />
+            <mxPoint x="350" y="-3640" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
