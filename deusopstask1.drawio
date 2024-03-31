@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-31T13:06:53.126Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="SPLgRRn2SXLZdq1AL-gX" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-31T13:07:01.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="zvjJ8gC-74FOTJ6kE6eq" version="24.2.0" type="github">
   <diagram name="Страница — 1" id="GFAsSLpkDOocdh42TMkq">
     <mxGraphModel dx="1555" dy="5022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -68,10 +68,10 @@
           <mxGeometry x="376.78000000000003" y="-3940" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s9o5hldAP5yXx8lMgUyK-23" value="&lt;h2&gt;ansible&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="-3740" width="90" height="60" as="geometry" />
+          <mxGeometry x="310" y="-3740" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s9o5hldAP5yXx8lMgUyK-24" value="&lt;h3&gt;10.8/24&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410" y="-3740" width="70" height="60" as="geometry" />
+          <mxGeometry x="387.31" y="-3740" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s9o5hldAP5yXx8lMgUyK-25" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];gradientDirection=north;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#1E262E;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.general;" vertex="1" parent="1">
           <mxGeometry x="640" y="-3842" width="122" height="122" as="geometry" />
