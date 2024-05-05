@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-05T07:26:54.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="6KJlsy_hpIrVhlxajI8m" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-05T08:26:55.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="GXjdwSZ2s0vqBzIIoQ1Y" version="24.2.5" type="github">
   <diagram name="Страница — 1" id="GFAsSLpkDOocdh42TMkq">
     <mxGraphModel dx="1434" dy="4889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -38,13 +38,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s9o5hldAP5yXx8lMgUyK-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/gitlab-128.png" parent="1" vertex="1">
-          <mxGeometry x="820" y="-4050" width="140" height="140" as="geometry" />
+          <mxGeometry x="830" y="-4052" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="s9o5hldAP5yXx8lMgUyK-13" value="&lt;h3&gt;10.5/24&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="910" y="-3960" width="70" height="60" as="geometry" />
+          <mxGeometry x="930" y="-3960" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s9o5hldAP5yXx8lMgUyK-14" value="&lt;h2&gt;gitlab&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="840" y="-3940" width="70" height="60" as="geometry" />
+          <mxGeometry x="860" y="-3950" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s9o5hldAP5yXx8lMgUyK-16" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.resources;" parent="1" vertex="1">
           <mxGeometry x="467.69" y="-4042" width="104.62" height="120" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="530" y="-3960" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s9o5hldAP5yXx8lMgUyK-19" value="&lt;h3&gt;https://gitlab.kirillishanin.ru&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="785" y="-4070" width="210" height="60" as="geometry" />
+          <mxGeometry x="820" y="-4080" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s9o5hldAP5yXx8lMgUyK-20" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.management_console2;" parent="1" vertex="1">
           <mxGeometry x="424.61999999999995" y="-3842" width="136.78" height="121" as="geometry" />
